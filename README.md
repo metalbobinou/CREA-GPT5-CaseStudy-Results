@@ -14,7 +14,9 @@ This repository is expected to be moved to a public open archive.
 
 ## Output:
 
-__Filename__: [Dataset]-[Strategy]-[Beta]-[Clustering (k)]
+__Filename__ (CREA case) : [Dataset]-Clusters-[Strategy]-[Beta]-[Clustering (k)]
+
+__Filename__ (GPT5 case) : [Dataset]-Clusters-GPT-[Clustering (k)]
 
 _Dataset_: PHPCourses, Abstracts, FullPapers
 
@@ -25,6 +27,11 @@ _Beta_: The Beta chosen
 _Clustering (k)_: The number of clusters given (the k value)
 
 
-e.g.: Abstracts-Clusters-S=M-B=1.00-k=16.csv
+Example 1: Abstracts-Clusters-S=M-B=1.00-k=16.csv
 
-Concerns the _Abstracts_ dataset, with the _medium strategy_ using a _Beta of 1.00_, and asking for _16 clusters (k=16)_.
+Concerns the _Abstracts_ dataset processed with CREA, with the _medium strategy_ using a _Beta of 1.00_, and asking for _16 clusters (k=16)_.
+
+
+Example 2: FullPapers-Clusters-GPT-k=8.csv
+
+Concerns the _FullPapers_ dataset processed with ChatGPT, asking for _8 clusters (k=8)_.
