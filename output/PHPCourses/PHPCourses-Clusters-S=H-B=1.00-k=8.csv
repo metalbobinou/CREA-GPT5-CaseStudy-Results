@@ -1,0 +1,17 @@
+Topic ID;Label / Terms
+1;PHP Syntax - Basic PHP coding constructs including loops, arrays, classes, and database functions
+;php, code, fois, post, jour, foreach, cle, classe, class, mysqli
+2;Web Pages - Interaction between web pages, browsers, servers, and users with associated content
+;page web, navigateur, serveur web, texte, concerner, délimiter, utilisateur, associer, personne, machine, mysql
+3;Sessions & URLs - Handling of URLs, sessions, headers, and access control in web applications
+;url, langage, case, fermeture, session, chaîne, entête, avoir accès
+4;Files & Forms - Managing files, comments, checkboxes, and client-server interpretation
+;fichier, commentaire, case à cocher, interpréter, côté serveur, serveur, côté client
+5;Data Types - Typing, keywords, transactions, and displaying information for visitors
+;typage, mot, moteur, affiche, transaction, visiteur
+6;Databases - Database operations with insert statements, varchar fields, and null values
+;base de données, insert, varchar, null
+7;XML & Config - Use of XML, configuration files, composer, and document type declarations
+;xml, configuration, composer, doctype
+8;Web Data - Handling data, POST methods, scripting languages, timestamps, and file inputs
+;donnée, text, méthode post, programmation, site, langage de script, list, méthode, timestamp, files

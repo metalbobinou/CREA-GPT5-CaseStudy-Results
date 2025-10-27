@@ -1,0 +1,5 @@
+Strategy Medium - k=20;;;
+Beta;Largest Cluster;2nd Largest Cluster;Smallest Cluster
+0.75;163;16;9
+1.00;196;44;10
+1.25;210;34;9

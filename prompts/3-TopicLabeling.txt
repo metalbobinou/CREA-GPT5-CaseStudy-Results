@@ -1,0 +1,10 @@
+You are labeling the final topics obtained from topic modeling.
+Here are the topics:
+[TOPICS]
+For each topic:
+- Assign a concise label (1–2 words).
+- Provide a one-sentence description that summarizes the topic.
+- Do not add explanations or commentary.
+Return solely the final labels in the following format and nothing else:
+Topic k : Label - Description
+...

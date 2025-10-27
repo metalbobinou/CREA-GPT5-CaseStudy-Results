@@ -1,0 +1,17 @@
+Topic ID;Label / Terms
+1;Basics - PHP installation, configuration, and basic syntax
+;php, installation, configuration, syntax, echo
+2;Variables - Data types, arrays, operators, and constants in PHP
+;variables, types, arrays, operators, constants
+3;Control Flow - Conditional statements, loops, and function structures
+;conditionals, loops, control, switch, functions
+4;Forms - User input handling with GET/POST and validation
+;forms, input, GET, POST, validation
+5;Sessions - Session handling, cookies, login, and security persistence
+;sessions, cookies, login, persistence, csrf
+6;OOP - Object-oriented programming with classes, objects, and methods
+;classes, objects, inheritance, methods, attributes
+7;Database - SQL queries, PDO, MySQL connections, and transactions
+;database, mysql, queries, pdo, transactions
+8;Frameworks - MVC architecture with Symfony, Twig, REST, and related tools
+;mvc, symfony, twig, rest, framework

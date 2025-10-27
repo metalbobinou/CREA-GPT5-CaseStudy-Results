@@ -1,0 +1,13 @@
+You are consolidating topic modeling results from multiple document batches.
+Each batch produced topics in the format "Topic k: word, word, word, word, word".
+Here are the topics:
+[BATCH RESULTS]
+Merge these results into exactly 5 final topics.
+- Each topic must contain exactly 5 keywords.
+- Keywords must be 1–2 words each.
+- Merge duplicates and synonyms into a single topic.
+- Favor topics that appear in multiple batches.
+- Discard topics that appear rarely.
+Return solely the final topics in the following format and nothing else:
+Topic k: word, word, word, word, word
+...

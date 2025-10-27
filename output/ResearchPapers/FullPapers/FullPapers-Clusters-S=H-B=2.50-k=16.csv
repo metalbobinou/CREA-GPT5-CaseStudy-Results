@@ -1,0 +1,33 @@
+Cluster ID;n_Terms;Terms
+1;67;Process Specification - Concepts, practices, and techniques for designing, specifying, and evaluating processes
+;;achieve, act, actors, algorithms, applicable, article, availability, available, behavior, best practice, communication, community, concept, concrete, context, contract, core, decide, desired, diagram, discuss, document, edges, enabling, entities, evaluation, evolution, executable, experiment, feature, figurer, fulfilled, group, gs, infrastructure, interaction, life, literature, main, matrix, motivation, network, organizations, oriented, participant, present, process design, process specification, proposer, react, regarding, related, reputation, responsibilities, risk, selected, set, skills, specification, states, target, technique, text, time, treatment, type, value
+2;11;Evaluation Criteria - Assessing effectiveness and validity using measurement, logic, and semantics
+;;assess, criteria, effectiveness, information, logic, measurement, number, problem, semantics, state machine, valid
+3;9;Scientific Analysis - Theoretical and technological analysis supported by research and results
+;;ability, al, analyze, authors, higher, rely, results, technology, theory
+4;8;Applied Systems - Applications in engineering, documentation, and healthcare systems
+;;application, documentation, engineers, health, healthcare, phenomenon, reason, system
+5;8;Environmental Change - Handling changes in environments and structures
+;;addition, changing, elaborate, environment, handling, head, high, structurer
+6;7;Conceptual Research - Domain-driven conceptual research and exploration of possibilities
+;;conceptual, domain, existing, kind, possible, research, usually
+7;7;Business Strategy - Strategic aspects of business, customer focus, and design language
+;;business, created, customer, designer, language, missing, strategic
+8;7;Process Management - Tools, strategies, and workshops for process improvement and management systems
+;;key, management systems, people, process improvement, strategy, tool, workshops
+9;7;Adaptive Planning - Dynamic management, planning, and adaptation to conditions like weather
+;;adapted, definition, dynamic, management, particularly, plan, weather
+10;7;Software Stakeholders - Issues of taxonomy, terminology, and supply chain in software and stakeholder contexts
+;;lack, software, stakeholders, supply, supply chain, taxonomy, terms
+11;7;BPM Collaboration - Business process management with modeling, workflow, and collaboration 81
+;;business process management, collaboration, difficult, idea, modeling languages, process, workflow
+12;7;Design Validation - Complexity, service design, and validation for successful creation
+;;complexity, creation, design process, fig, service, success, validation
+13;7;Enterprise Modeling - Company-level modeling, projects, and shared hierarchical expertise
+;;add, company, enterprise modeling, expert, hierarchy, project, shared
+14;6;Formal Methods - Scientific and formal approaches to complex and successful systems
+;;complex, experience, formal methods, objectif, science, successful
+15;6;Implementation Goals - Detailed illustration of goals, emergence, and versioned implementation
+;;detailed, emergence, goal, illustrate, implementation, version
+16;5;System Architecture - Architectural integration, change, and managerial approaches
+;;architecture, change, integration, manager, way

@@ -1,0 +1,7 @@
+You are simulating a topic modeling system.
+Analyze the following set of documents and identify 5 topics.
+[DOCUMENTS]
+Each topic must be represented only by 5 keywords (1–2 words each).
+Return solely the results in the following format and nothing else:
+Topic k: word, word, word, word, word
+...

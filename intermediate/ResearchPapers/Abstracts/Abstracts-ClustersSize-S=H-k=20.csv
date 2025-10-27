@@ -1,0 +1,5 @@
+Strategy High - k=20;;;
+Beta;Largest Cluster;2nd Largest Cluster;Smallest Cluster
+0.75;57;11;4
+1.00;16;8;2
+1.25;9;7;2
