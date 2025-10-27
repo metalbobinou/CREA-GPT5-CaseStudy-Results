@@ -35,3 +35,10 @@ Concerns the _Abstracts_ dataset processed with CREA, with the _medium strategy_
 Example 2: FullPapers-Clusters-GPT-k=8.csv
 
 Concerns the _FullPapers_ dataset processed with ChatGPT, asking for _8 clusters (k=8)_.
+
+
+
+# Authors
+
+Monica SEN - Developer & Producer of data
+Fabrice BOISSIER - Supervisor
